@@ -12,7 +12,7 @@
 const mergeKLists = (lists) => {
     const nums = [];
 
-    for (let node of list) {
+    for (let node of lists) {
         while (node) {
             nums.push(node.val);
             node = node.next;
