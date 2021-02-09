@@ -132,7 +132,6 @@
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [JavaScript](./203-Remove-Linked-List-Elements.js)|Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [JavaScript](./202-Happy-Number.js)|Easy|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [JavaScript](./199-Binary-Tree-Right-Side-View.js)|Medium|
-|195|[Tenth Line](https://leetcode.com/problems/tenth-line/) | [JavaScript](./195-Tenth-Line.js)|Easy|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [JavaScript](./191-Number-of-1-Bits.js)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./189-Rotate-Array.js)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./169-Majority-Element.js)|Easy|
@@ -178,3 +177,9 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [JavaScript](./3-Longest-Substring-Without-Repeating-Characters.js)|Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [JavaScript](./2-Add-Two-Numbers.js)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./1-Two-Sum.js)|Easy|
+
+### LeetCode Shell
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|195|[Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](./195-Tenth-Line.sh)|Easy|
