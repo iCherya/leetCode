@@ -137,6 +137,7 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [JavaScript](./169-Majority-Element.js)|Easy|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/) | [JavaScript](./155-Min-Stack.js)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [JavaScript](./141-Linked-List-Cycle.js)|Easy|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [JavaScript](./138-Copy-List-with-Random-Pointer.js)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [JavaScript](./136-Single-Number.js)|Easy|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [JavaScript](./131-Palindrome-Partitioning.js)|Medium|
 |127|[Word Ladder](https://leetcode.com/problems/word-ladder/) | [JavaScript](./127-Word-Ladder.js)|Hard|
