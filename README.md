@@ -90,6 +90,7 @@
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [JavaScript](./832-Flipping-an-Image.js)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [JavaScript](./824-Goat-Latin.js)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [JavaScript](./821-Shortest-Distance-to-a-Character.js)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [JavaScript](./771-Jewels-and-Stones.js)|Easy|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/) | [JavaScript](./754-Reach-a-Number.js)|Medium|
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [JavaScript](./709-To-Lower-Case.js)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [JavaScript](./728-Self-Dividing-Numbers.js)|Easy|
