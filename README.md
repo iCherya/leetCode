@@ -51,6 +51,7 @@
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [JavaScript](./1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.js)|Medium|
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [JavaScript](./1463-Cherry-Pickup-II.js)|Hard|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [JavaScript](./1437-Check-If-All-1's-Are-at-Least-Length-K-Places-Away.js)|Easy|
+|1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [JavaScript](./1431-Kids-With-the-Greatest-Number-of-Candies.js)|Easy|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./1389-Create-Target-Array-in-the-Given-Order.js)|Easy|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/) | [JavaScript](./1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.js)|Medium|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./1365-How-Many-Numbers-Are-Smaller-Than-the-Current-Number.js)|Easy|
