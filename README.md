@@ -58,6 +58,7 @@
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/) | [JavaScript](./1351-Count-Negative-Numbers-in-a-Sorted-Matrix.js)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | [JavaScript](./1346-Check-If-N-and-Its-Double-Exist.js)|Easy|
 |1345|[Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [JavaScript](./1345-Jump-Game-IV.js)|Hard|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.js)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [JavaScript](./1295-Find-Numbers-with-Even-Number-of-Digits.js)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [JavaScript](./1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.js)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [JavaScript](./1207-Unique-Number-of-Occurrences.js)|Easy|
