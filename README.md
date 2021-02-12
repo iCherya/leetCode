@@ -160,6 +160,7 @@
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [JavaScript](./66-Plus-One.js)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [JavaScript](./58-Length-of-Last-Word.js)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [JavaScript](./53-Maximum-Subarray.js)|Easy|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [JavaScript](./41-First-Missing-Positive.js)|Hard|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./35-Search-Insert-Position.js)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [JavaScript](./34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.js)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [JavaScript](./31-Next-Permutation.js)|Medium|
