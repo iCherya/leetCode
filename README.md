@@ -93,8 +93,9 @@
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [JavaScript](./821-Shortest-Distance-to-a-Character.js)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [JavaScript](./771-Jewels-and-Stones.js)|Easy|
 |754|[Reach a Number](https://leetcode.com/problems/reach-a-number/) | [JavaScript](./754-Reach-a-Number.js)|Medium|
-|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [JavaScript](./709-To-Lower-Case.js)|Easy|
 |728|[Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/) | [JavaScript](./728-Self-Dividing-Numbers.js)|Easy|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/) | [JavaScript](./709-To-Lower-Case.js)|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./704-Binary-Search.js)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [JavaScript](./669-Trim-a-Binary-Search-Tree.js)|Medium|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [JavaScript](./594-Longest-Harmonious-Subsequence.js)|Easy|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [JavaScript](./556-Next-Greater-Element-III.js)|Medium|
