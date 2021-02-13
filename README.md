@@ -71,6 +71,7 @@
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [JavaScript](./1287-Element-Appearing-More-Than-25%-In-Sorted-Array.js)|Easy|
 |1619|[Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | [JavaScript](./1619-Mean-of-Array-After-Removing-Some-Elements.js)|Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [JavaScript](./1108-Defanging-an-IP-Address.js)|Easy|
+|1091|[Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [JavaScript](./1091-Shortest-Path-in-Binary-Matrix.js)|Medium|
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [JavaScript](./1089-Duplicate-Zeros.js)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/) | [JavaScript](./1051-Height-Checker.js)|Easy|
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JavaScript](./1047-Remove-All-Adjacent-Duplicates-In-String.js)|Easy|
