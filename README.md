@@ -78,6 +78,7 @@
 |1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [JavaScript](./1047-Remove-All-Adjacent-Duplicates-In-String.js)|Easy|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [JavaScript](./1046-Last-Stone-Weight.js)|Easy|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [JavaScript](./1038-Binary-Search-Tree-to-Greater-Sum-Tree.js)|Medium|
+|1009|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [JavaScript](./1009-Complement-of-Base-10-Integer.js)|Easy|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [JavaScript](./1002-Find-Common-Characters.js)|Easy|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [JavaScript](./987-Vertical-Order-Traversal-of-a-Binary-Tree.js)|Hard|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./977-Squares-of-a-Sorted-Array.js)|Easy|
