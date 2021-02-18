@@ -113,6 +113,7 @@
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [JavaScript](./448-Find-All-Numbers-Disappeared-in-an-Array.js)|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [JavaScript](./415-Add-Strings.js)|Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [JavaScript](./414-Third-Maximum-Number.js)|Easy|
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [JavaScript](./413-Arithmetic-Slices.js)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [JavaScript](./412-Fizz-Buzz.js)|Easy|
 |387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [JavaScript](./387-First-Unique-Character-in-a-String.js)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [JavaScript](./374-Guess-Number-Higher-or-Lower.js)|Easy|
