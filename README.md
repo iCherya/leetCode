@@ -62,6 +62,7 @@
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./1337-The-K-Weakest-Rows-in-a-Matrix.js)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [JavaScript](./1295-Find-Numbers-with-Even-Number-of-Digits.js)|Easy|
 |1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [JavaScript](./1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.js)|Easy|
+|1249|[Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [JavaScript](./1249-Minimum-Remove-to-Make-Valid-Parentheses.js)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [JavaScript](./1207-Unique-Number-of-Occurrences.js)|Easy|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/) | [JavaScript](./1185-Day-of-the-Week.js)|Easy|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year/) | [JavaScript](./1154-Day-of-the-Year.js)|Easy|
