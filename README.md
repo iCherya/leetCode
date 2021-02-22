@@ -109,6 +109,7 @@
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [JavaScript](./556-Next-Greater-Element-III.js)|Medium|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [JavaScript](./538-Convert-BST-to-Greater-Tree.js)|Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [JavaScript](./526-Beautiful-Arrangement.js)|Medium|
+|524|[Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/) | [JavaScript](./524-Longest-Word-in-Dictionary-through-Deleting.js)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [JavaScript](./498-Diagonal-Traverse.js)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [JavaScript](./485-Max-Consecutive-Ones.js)|Easy|
 |454|[4Sum II](https://leetcode.com/problems/4sum-ii/) | [JavaScript](./454-4Sum-II.js)|Medium|
