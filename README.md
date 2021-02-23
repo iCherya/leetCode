@@ -137,6 +137,7 @@
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/) | [JavaScript](./263-Ugly-Number.js)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/) | [JavaScript](./258-Add-Digits.js)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [JavaScript](./242-Valid-Anagram.js)|Easy|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [JavaScript](./240-Search-a-2D-Matrix-II.js)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [JavaScript](./231-Power-of-Two.js)|Easy|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [JavaScript](./228-Summary-Ranges.js)|Easy|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [JavaScript](./217-Contains-Duplicate.js)|Easy|
