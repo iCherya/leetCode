@@ -94,6 +94,7 @@
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [JavaScript](./880-Decoded-String-at-Index.js)|Medium|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [JavaScript](./867-Transpose-Matrix.js)|Easy|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [JavaScript](./865-Smallest-Subtree-with-all-the-Deepest-Nodes.js)|Medium|
+|856|[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | [JavaScript](./856-Score-of-Parentheses.js)|Medium|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [JavaScript](./832-Flipping-an-Image.js)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/) | [JavaScript](./824-Goat-Latin.js)|Easy|
 |821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [JavaScript](./821-Shortest-Distance-to-a-Character.js)|Easy|
