@@ -85,6 +85,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [JavaScript](./987-Vertical-Order-Traversal-of-a-Binary-Tree.js)|Hard|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [JavaScript](./977-Squares-of-a-Sorted-Array.js)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [JavaScript](./509-Fibonacci-Number.js)|Easy|
+|946|[Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [JavaScript](./946-Validate-Stack-Sequences.js)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [JavaScript](./941-Valid-Mountain-Array.js)|Easy|
 |917|[Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [JavaScript](./917-Reverse-Only-Letters.js)|Easy|
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [JavaScript](./910-Smallest-Range-II.js)|Medium|
