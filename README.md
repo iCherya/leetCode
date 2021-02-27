@@ -181,6 +181,7 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./35-Search-Insert-Position.js)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [JavaScript](./34-Find-First-and-Last-Position-of-Element-in-Sorted-Array.js)|Medium|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/) | [JavaScript](./31-Next-Permutation.js)|Medium|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [JavaScript](./29-Divide-Two-Integers.js)|Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [JavaScript](./28-Implement-strStr().js)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [JavaScript](./27-Remove-Element.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](./26-Remove-Duplicates-from-Sorted-Array.js)|Easy|
