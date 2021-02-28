@@ -208,3 +208,9 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](./195-Tenth-Line.sh)|Easy|
+
+### LeetCode Database
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./182-Duplicate-Emails.sql)|Easy|
