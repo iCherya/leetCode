@@ -91,6 +91,7 @@
 |910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [JavaScript](./910-Smallest-Range-II.js)|Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [JavaScript](./905-Sort-Array-By-Parity.js)|Easy|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/) | [JavaScript](./896-Monotonic-Array.js)|Easy|
+|895|[Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) | [JavaScript](./895-Maximum-Frequency-Stack.js)|Hard|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [JavaScript](./881-Boats-to-Save-People.js)|Medium|
 |880|[Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [JavaScript](./880-Decoded-String-at-Index.js)|Medium|
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [JavaScript](./867-Transpose-Matrix.js)|Easy|
