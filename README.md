@@ -109,6 +109,7 @@
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./704-Binary-Search.js)|Easy|
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [JavaScript](./669-Trim-a-Binary-Search-Tree.js)|Medium|
 |594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [JavaScript](./594-Longest-Harmonious-Subsequence.js)|Easy|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [JavaScript](./645-Set-Mismatch.js)|Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [JavaScript](./581-Shortest-Unsorted-Continuous-Subarray.js)|Medium|
 |575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [JavaScript](./575-Distribute-Candies.js)|Easy|
 |556|[Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [JavaScript](./556-Next-Greater-Element-III.js)|Medium|
