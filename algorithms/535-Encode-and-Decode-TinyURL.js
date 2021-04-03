@@ -1,3 +1,4 @@
+/* eslint-disable no-redeclare */
 const map = {};
 const origin = 'https://tinyurl.com/';
 

@@ -22,5 +22,3 @@ const reorderedPowerOf2 = (N) => {
 
     return false;
 };
-
-console.log(reorderedPowerOf2(45));

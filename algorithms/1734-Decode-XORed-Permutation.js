@@ -3,7 +3,7 @@
  * @return {number[]}
  */
 const decode = (encoded) => {
-    let len = encoded.length + 1;
+    const len = encoded.length + 1;
 
     let xorAll = 0;
     let xorAdj = 0;
@@ -26,6 +26,3 @@ const decode = (encoded) => {
 
     return result.reverse();
 };
-
-console.log(decode([3, 1])); // [1,2,3]
-console.log(decode([6, 5, 4, 6])); //[2,4,1,5,3]

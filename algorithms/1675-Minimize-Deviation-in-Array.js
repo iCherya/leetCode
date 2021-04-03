@@ -7,11 +7,11 @@ const minimumDeviation = (nums) => {
         [arr[i], arr[j]] = [arr[j], arr[i]];
     };
     const maxHeapSort = (arr, parent) => {
-        var left = parent * 2 + 1;
+        let left = parent * 2 + 1;
 
         while (left < arr.length) {
-            var maxChild = left;
-            var right = left + 1;
+            let maxChild = left;
+            const right = left + 1;
 
             if (right < arr.length && arr[right] > arr[left]) {
                 maxChild = right;

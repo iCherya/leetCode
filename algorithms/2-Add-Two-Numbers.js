@@ -1,3 +1,4 @@
+/* global ListNode */
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
@@ -11,9 +12,9 @@
  * @return {ListNode}
  */
 const addTwoNumbers = (l1, l2) => {
+    const head = new ListNode(0);
     let carry = 0,
         sum = 0,
-        head = new ListNode(0),
         now = head,
         a = l1,
         b = l2;

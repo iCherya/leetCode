@@ -9,9 +9,9 @@ const minimumLength = (s) => {
         let left = 0;
         let right = str.length - 1;
 
-        if (str[left] != str[right]) return str.length;
+        if (str[left] !== str[right]) return str.length;
 
-        let letter = str[left];
+        const letter = str[left];
         for (let i = 1; i < str.length; i++) {
             if (str[i] === letter) {
                 left++;

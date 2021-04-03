@@ -3,7 +3,7 @@
  * @return {string}
  */
 const simplifyPath = (path) => {
-    const folders = path.split('/').filter((el) => /\.\.|[^\s\.]/.test(el));
+    const folders = path.split('/').filter((el) => /\.\.|[^\s.]/.test(el));
     const stack = [];
 
     for (const current of folders) {

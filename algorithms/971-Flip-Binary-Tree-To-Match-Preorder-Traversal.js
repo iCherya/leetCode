@@ -16,7 +16,7 @@ const flipMatchVoyage = (root, voyage) => {
     const result = [];
 
     const dfs = (node, v) => {
-        if (node == null) return true;
+        if (node === null) return true;
         if (node.val !== v[i++]) return false;
 
         if (node.left !== null && node.left.val !== v[i]) {

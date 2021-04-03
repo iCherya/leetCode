@@ -32,7 +32,7 @@ const mergeTwoLists = (l1, l2) => {
     result.sort((a, b) => a.val - b.val);
 
     for (let i = 0; i < result.length; i++) {
-        result[i].next = i != result.length - 1 ? result[i + 1] : null;
+        result[i].next = i !== result.length - 1 ? result[i + 1] : null;
     }
 
     return result[0];

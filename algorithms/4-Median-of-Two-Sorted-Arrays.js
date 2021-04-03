@@ -4,7 +4,7 @@
  * @return {number}
  */
 const findMedianSortedArrays = (nums1, nums2) => {
-    let result = [];
+    const result = [];
     let i = 0;
     let j = 0;
 
@@ -32,7 +32,6 @@ const findMedianSortedArrays = (nums1, nums2) => {
     if (result.length % 2 !== 0) {
         median = result[Math.floor(result.length / 2)];
     } else {
-        console.log(result.length);
         const right = Math.floor(result.length / 2);
         const left = right - 1;
 

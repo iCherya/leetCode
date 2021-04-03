@@ -31,11 +31,11 @@ const closeStrings = (word1, word2) => {
         if (word1HashSortedLetters[i] !== word2HashSortedLetters[i]) return false;
     }
 
-    const word1HashSortedOqurences = Object.values(word1Hash).sort((a, b) => a - b);
-    const word2HashSortedOqurences = Object.values(word2Hash).sort((a, b) => a - b);
+    const word1HashSortedOccurrences = Object.values(word1Hash).sort((a, b) => a - b);
+    const word2HashSortedOccurrences = Object.values(word2Hash).sort((a, b) => a - b);
 
-    for (let i = 0; i < word1Counts.length; i++) {
-        if (word1HashSortedOqurences[i] !== word2HashSortedOqurences[i]) return false;
+    for (let i = 0; i < len; i++) {
+        if (word1HashSortedOccurrences[i] !== word2HashSortedOccurrences[i]) return false;
     }
 
     return true;

@@ -4,7 +4,7 @@
  */
 const validMountainArray = (arr) => {
     if (arr.length <= 2) return false;
-    let peak = {
+    const peak = {
         index: -1,
         value: -1
     };
@@ -16,7 +16,7 @@ const validMountainArray = (arr) => {
         }
     }
 
-    if (peak.index == 0 || peak.index == arr.length - 1) {
+    if (peak.index === 0 || peak.index === arr.length - 1) {
         return false;
     }
 
@@ -34,7 +34,3 @@ const validMountainArray = (arr) => {
 
     return true;
 };
-console.log(validMountainArray([2, 1])); // false
-console.log(validMountainArray([3, 5, 5])); // false
-console.log(validMountainArray([0, 3, 2, 1])); // true
-console.log(validMountainArray([0, 3, 2, 1, 5, 4])); // false

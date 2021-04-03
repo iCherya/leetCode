@@ -11,24 +11,26 @@ const maximumGain = (s, x, y) => {
     let score2;
 
     const maximum = (text, textToRemove, pointsPerRemoval) => {
-        let preLength = text.length;
-        let re = RegExp(textToRemove, 'gi');
+        const preLength = text.length;
+        const re = RegExp(textToRemove, 'gi');
 
         while (re.test(text)) {
             text = text.replace(re, '');
         }
 
-        let postLength = text.length;
-        let totalRemoved = (preLength - postLength) / 2;
+        const postLength = text.length;
+        const totalRemoved = (preLength - postLength) / 2;
 
         return [text, totalRemoved * pointsPerRemoval];
     };
 
     if (x > y) {
         [text, score1] = maximum(text, 'ab', x);
+        // eslint-disable-next-line no-undef
         [_, score2] = maximum(text, 'ba', y);
     } else {
         [text, score1] = maximum(text, 'ba', y);
+        // eslint-disable-next-line no-undef
         [_, score2] = maximum(text, 'ab', x);
     }
 

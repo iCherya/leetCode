@@ -1,3 +1,4 @@
+/* global ListNode */
 /**
  * Definition for singly-linked list.
  * function ListNode(val, next) {
@@ -10,12 +11,12 @@
  * @return {ListNode}
  */
 const deleteDuplicates = (head) => {
-    let newNode = new ListNode(-1, head);
+    const newNode = new ListNode(-1, head);
     let temp = newNode;
 
     while (head && head.next) {
         if (head.val === head.next.val) {
-            while (head && head.next && head.val == head.next.val) {
+            while (head && head.next && head.val === head.next.val) {
                 head = head.next;
             }
             head = head.next;

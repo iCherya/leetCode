@@ -19,7 +19,8 @@ const diagonalSort = (mat) => {
         diagonal.sort((a, b) => a - b);
     }
 
-    const result = mat.map((el) => new Array(n).fill(null));
+    // eslint-disable-next-line no-unused-vars
+    const result = mat.map((_) => new Array(n).fill(null));
 
     for (let i = m - 1; i >= 0; i--) {
         for (let j = n - 1; j >= 0; j--) {

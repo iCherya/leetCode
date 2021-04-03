@@ -15,6 +15,7 @@ const beautySum = (s) => {
             let max = -Infinity;
             let min = Infinity;
 
+            // eslint-disable-next-line guard-for-in
             for (const item in map) {
                 if (map[item] > max) max = map[item];
                 if (map[item] < min) min = map[item];

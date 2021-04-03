@@ -7,7 +7,7 @@ const maxOperations = (nums, k) => {
     const map = new Map();
     let result = 0;
 
-    for (let number of nums)
+    for (const number of nums)
         if (number < k)
             if (map.get(k - number)) {
                 map.set(k - number, map.get(k - number) - 1);
@@ -18,5 +18,3 @@ const maxOperations = (nums, k) => {
 
     return result;
 };
-
-console.log(maxOperations([1, 2, 3, 4], 5));

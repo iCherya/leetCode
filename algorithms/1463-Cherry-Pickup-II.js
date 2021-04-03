@@ -14,7 +14,7 @@ const cherryPickup = (grid) => {
             return memory[name];
         }
 
-        if (i == columns) {
+        if (i === columns) {
             return (memory[name] = 0);
         }
 

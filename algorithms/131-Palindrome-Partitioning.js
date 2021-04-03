@@ -20,7 +20,7 @@ const partition = function (s) {
     };
 
     const backtrack = (temp, idx) => {
-        if (idx == s.length) {
+        if (idx === s.length) {
             result.push([...temp]);
         }
 
@@ -33,7 +33,7 @@ const partition = function (s) {
         }
     };
 
-    let idx = 0;
+    const idx = 0;
     backtrack(temp, idx);
 
     return result;

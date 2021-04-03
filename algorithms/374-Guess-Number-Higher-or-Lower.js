@@ -1,3 +1,4 @@
+/* global guess */
 /**
  * Forward declaration of guess API.
  * @param {number} num   your guess
@@ -16,7 +17,7 @@ const guessNumber = (n) => {
     let to = n;
 
     while (from <= to) {
-        let middle = Math.floor((from + to) / 2);
+        const middle = Math.floor((from + to) / 2);
         const target = guess(middle);
 
         if (target === 0) {
