@@ -298,8 +298,10 @@
 | 203  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)                                                                               | [JavaScript](./algorithms/203-Remove-Linked-List-Elements.js)                                         | Easy       |
 | 202  | [Happy Number](https://leetcode.com/problems/happy-number/)                                                                                                             | [JavaScript](./algorithms/202-Happy-Number.js)                                                        | Easy       |
 | 199  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)                                                                               | [JavaScript](./algorithms/199-Binary-Tree-Right-Side-View.js)                                         | Medium     |
+| 195  | [Tenth Line](https://leetcode.com/problems/tenth-line/)                                                                                                                 | [Shell](./shell/195-Tenth-Line.sh)                                                                    | Easy       |
 | 191  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                                                                                                     | [JavaScript](./algorithms/191-Number-of-1-Bits.js)                                                    | Easy       |
 | 189  | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                                                                                             | [JavaScript](./algorithms/189-Rotate-Array.js)                                                        | Medium     |
+| 182  | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)                                                                                                     | [SQL](./algorithms/182-Duplicate-Emails.sql)                                                          | Easy       |
 | 169  | [Majority Element](https://leetcode.com/problems/majority-element/)                                                                                                     | [JavaScript](./algorithms/169-Majority-Element.js)                                                    | Easy       |
 | 164  | [Maximum Gap](https://leetcode.com/problems/maximum-gap/)                                                                                                               | [JavaScript](./algorithms/164-Maximum-Gap.js)                                                         | Hard       |
 | 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                                                                     | [JavaScript](./algorithms/160-Intersection-of-Two-Linked-Lists.js)                                    | Easy       |
@@ -374,15 +376,3 @@
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)                                         | [JavaScript](./algorithms/3-Longest-Substring-Without-Repeating-Characters.js)                        | Medium     |
 | 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                                                                       | [JavaScript](./algorithms/2-Add-Two-Numbers.js)                                                       | Medium     |
 | 1    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                                       | [JavaScript](./algorithms/1-Two-Sum.js)                                                               | Easy       |
-
-### LeetCode Shell
-
-| #   | Title                                                   | Solution                           | Difficulty |
-| --- | ------------------------------------------------------- | ---------------------------------- | ---------- |
-| 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/) | [Shell](./shell/195-Tenth-Line.sh) | Easy       |
-
-### LeetCode Database
-
-| #   | Title                                                               | Solution                                   | Difficulty |
-| --- | ------------------------------------------------------------------- | ------------------------------------------ | ---------- |
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [SQL](./database/182-Duplicate-Emails.sql) | Easy       |
