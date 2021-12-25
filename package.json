@@ -1,0 +1,29 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "Solutions to leetcode problems in JavaScript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCherya/leetCode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "Vladyslav Cherednichenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iCherya/leetCode/issues"
+  },
+  "homepage": "https://github.com/iCherya/leetCode#readme",
+  "devDependencies": {
+    "eslint": "^8.5.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
